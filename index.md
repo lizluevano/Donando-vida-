@@ -100,8 +100,7 @@ Sabemos lo dificil que es buscar donadores y es por eso que ofrecemos este espac
 Es por esto que se pide que posteen en los comentarios los requisitos necesarios para poder Donar y un correo electronico para que todo interesado pueda contactarse. 
 
 
-### Comentarios 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizluevano/donando-vida-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file
+### Comentarios
 
 Si estas interesado en ser Donador de sangre o de organos. Deja en la caja de comentarios
 
