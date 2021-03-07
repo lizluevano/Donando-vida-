@@ -1,9 +1,29 @@
 ## ¡Bienvenido!
+Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
+La finalidad de este proyecto es tener un panel de oportunidades más amplio para la población del estado de **Guanajuato**.
 
-Este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
-La finalidad de este proyecto es tener un panel de oportunidades más amplio. 
+### Dona Sangre, Salva vidas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files 
+Las donaciones de sangre que se hacen cada día contribuyen a salvar vidas, algunas de estas son mujeres con complicaciones obstétricas, niños que presenten un cuadro de anemia grave, personas con traumatismo graves o pacientes de intervenciones quirúrgicas y pacientes que requieren transfusiones periódicas por cáncer, operaciones u otros.
+
+Enseguida te compartire algunos puntos interesantes sobre la donación de sangre, esperando que así te animes a la causa.
+
+1. Donando una vez puedes ayudar a tres personas, así es. La sangre puede dividirse en tres productos diferentes, lo cual puede ayudar entre 3 y 4 personas.  
+
+2. La sangre caduca aproximadamente en 45 días, por lo tanto, es necesaria la donación constante de las personas.  
+
+3. Cada 4 minutos, una persona requiere una transfusión sanguínea.  
+
+ 5. Si donaras 3 veces como mujer y 4 veces como hombre al año de los 18 a los 65 años salvarías más de 500 vidas.  
+
+6. Más del 25% de nosotros necesitará sangre al menos una vez en la vida.  
+
+7. Por cada 10 donadores de sangre, se rechazan 4.   
+
+8. Los donadores de sangre tienen menos riesgo de padecer diabetes y ataques al corazón.  
+
+9. La donación es de 400 ml a 450 ml de sangre, una cantidad que no provoca ningún tipo de cambio en el cuerpo humano.  
+
 
 ### Quiero Donar
 
