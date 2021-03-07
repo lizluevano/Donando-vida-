@@ -32,42 +32,51 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 
 <table>
 <tr>
-  <td><strong>Curso</strong></td>
-  <td><strong>Horas</strong></td>
-  <td><strong>Horario</strong></td>
+  <td><strong>Grupo</strong></td>
+  <td><strong>A quien puede donar</strong></td>
+  <td><strong>De quien puede recibir</strong></td>
 </tr>
 
 <tr>
-  <td>CSS</td>
-  <td>20</td>
-  <td>16:00 - 20:00</td>
+  <td>A+</td>
+  <td>A+ y AB+</td>
+  <td> A± y O±</td>
 </tr>
 <tr>
-  <td>CSS</td>
-  <td>20</td>
-  <td>16:00 - 20:00</td>
+  <td>A-</td>
+  <td> A± y AB±</td>
+  <td> A- y O-</td>
 </tr>
 <tr>
-  <td>CSS</td>
-  <td>20</td>
-  <td>16:00 - 20:00</td>
+  <td>B+</td>
+  <td> B+ y AB+</td>
+  <td>B± y O±</td>
 </tr>
 <tr>
-  <td>CSS</td>
-  <td>20</td>
-  <td>16:00 - 20:00</td>
-</tr>
-
-<tr>
-  <td>HTML</td>
-  <td>20</td>
-  <td>16:00 - 20:00</td>
+  <td>B-</td>
+  <td>B± y AB±</td>
+  <td> B- y O-</td>
 </tr>
 
 <tr>
-  <td>Dreamweaver</td>
-  <td>60</td>
-  <td>16:00 - 20:00</td>
+  <td>AB+</td>
+  <td>AB+</td>
+  <td>**RECEPTOR UNIVERSAR**</td>
+</tr>
+<tr>
+  <td>AB-</td>
+  <td>AB±</td>
+  <td> A-, B-, AB- y O-</td>
+</tr>
+<tr>
+  <td>O+</td>
+  <td> A+, B+, AB+ y O+</td>
+  <td> O±</td>
+</tr>
+<tr>
+  <td>O-</td>
+  <td>**DONANTE UNIVERSAL**</td>
+  <td>O-</td>
 </tr>
 </table>
 
