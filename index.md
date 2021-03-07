@@ -1,8 +1,9 @@
 ## ¡Bienvenido!
 
-You can use the [editor on GitHub](https://github.com/lizluevano/donando-vida-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren apoyar.
+La finalidad de este proyecto es tener un espacio más amplio para el acceso 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files 
 
 ### Donador 
 
@@ -11,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 
