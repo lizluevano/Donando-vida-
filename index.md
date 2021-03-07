@@ -5,31 +5,18 @@ La finalidad de este proyecto es tener un panel de oportunidades más amplio.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files 
 
-### Donador 
+### Quiero Donar
 
 Si estas interesado en Donar sangre o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el mundo y así todos tengamos una oportunidad de seguir viviendo. 
 
 Agrega a tu comentario un correo electronico para que puedan contactarte. 
 
-```markdown
-Syntax highlighted code block
+### Busco Donadores 
 
-# Header 1 
-## Header 2
-### Header 3
+Sabemos lo dificil que es buscar donadores y es por eso que ofrecemos este espacio para encontrar una esperanza más. 
 
-- Bulleted
-- List
+Es por esto que se pide que posteen en los comentarios los requisitos necesarios para poder Donar y un correo electronico para que todo interesado pueda contactarse. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Comentarios 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizluevano/donando-vida-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file
