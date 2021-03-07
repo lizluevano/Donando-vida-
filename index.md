@@ -14,7 +14,7 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 
 3. Cada 4 minutos, una persona requiere una transfusión sanguínea.  
 
- 5. Si donaras 3 veces como mujer y 4 veces como hombre al año de los 18 a los 65 años salvarías más de 500 vidas.  
+5. Si donaras 3 veces como mujer y 4 veces como hombre al año de los 18 a los 65 años salvarías más de 500 vidas.  
 
 6. Más del 25% de nosotros necesitará sangre al menos una vez en la vida.  
 
@@ -25,9 +25,49 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 9. La donación es de 400 ml a 450 ml de sangre, una cantidad que no provoca ningún tipo de cambio en el cuerpo humano.  
 
 
+### Compatibilidad
+<html>
+<head><title>Ejemplo de tabla sencilla</title></head>
+<body>
+
+<h1>Listado de cursos</h1>
+
+<table>
+<tr>
+  <td><strong>Curso</strong></td>
+  <td><strong>Horas</strong></td>
+  <td><strong>Horario</strong></td>
+</tr>
+
+<tr>
+  <td>CSS</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+
+<tr>
+  <td>HTML</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+
+<tr>
+  <td>Dreamweaver</td>
+  <td>60</td>
+  <td>16:00 - 20:00</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+
+
+
+
 ### Quiero Donar
 
-Si estas interesado en Donar sangre o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el mundo y así todos tengamos una oportunidad de seguir viviendo. 
+Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el mundo y así todos tengamos una oportunidad de seguir viviendo. 
 
 Agrega a tu comentario un correo electronico para que puedan contactarte. 
 
