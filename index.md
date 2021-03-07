@@ -30,8 +30,6 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 <head><title>Ejemplo de tabla sencilla</title></head>
 <body>
 
-<h1>Listado de cursos</h1>
-
 <table>
 <tr>
   <td><strong>Curso</strong></td>
@@ -39,6 +37,21 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
   <td><strong>Horario</strong></td>
 </tr>
 
+<tr>
+  <td>CSS</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+<tr>
+  <td>CSS</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+<tr>
+  <td>CSS</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
 <tr>
   <td>CSS</td>
   <td>20</td>
