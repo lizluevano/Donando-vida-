@@ -1,13 +1,15 @@
 ## ¡Bienvenido!
 
-Este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren apoyar.
-La finalidad de este proyecto es tener un espacio más amplio para el acceso 
+Este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
+La finalidad de este proyecto es tener un panel de oportunidades más amplio. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files 
 
 ### Donador 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Si estas interesado en Donar sangre o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el mundo y así todos tengamos una oportunidad de seguir viviendo. 
+
+Agrega a tu comentario un correo electronico para que puedan contactarte. 
 
 ```markdown
 Syntax highlighted code block
@@ -31,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Comentarios 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizluevano/donando-vida-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Si estas interesado en ser Donador de sangre o de organos. Deja en la caja de comentarios
 
 <div id="disqus_thread"></div>
 <script>
