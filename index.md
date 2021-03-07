@@ -61,7 +61,7 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 <tr>
   <td>AB+</td>
   <td>AB+</td>
-  <td>**RECEPTOR UNIVERSAR**</td>
+  <td>RECEPTOR UNIVERSAL</td>
 </tr>
 <tr>
   <td>AB-</td>
@@ -75,7 +75,7 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 </tr>
 <tr>
   <td>O-</td>
-  <td>**DONANTE UNIVERSAL**</td>
+  <td>DONANTE UNIVERSAL</td>
   <td>O-</td>
 </tr>
 </table>
