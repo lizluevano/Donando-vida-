@@ -26,6 +26,7 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 
 
 ### Compatibilidad
+Es importante conocer sobre la compatibilidad que tienen los distintos grupos sanguineos. 
 <html>
 <head><title>Ejemplo de tabla sencilla</title></head>
 <body>
