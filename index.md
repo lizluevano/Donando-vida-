@@ -102,7 +102,9 @@ Es por esto que se pide que posteen en los comentarios los requisitos necesarios
 
 ### Comentarios
 
-Si estas interesado en ser Donador de sangre o de organos. Deja en la caja de comentarios
+Si estas interesado en ser Donador o buscar Donadores de sangre, plasma u organos. Escribe en la caja de comentarios para que pueda llegar a más personas. 
+
+   **Recuerda que el mundo es de las personas que se levantan y aportan con sus acciones para hacerlo crecer**. 
 
 <div id="disqus_thread"></div>
 <script>
