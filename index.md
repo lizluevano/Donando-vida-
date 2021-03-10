@@ -6,6 +6,7 @@
 <br> 
     <img src="images/gota.jpg"
   img/>
+  
 ### ¡Conoce mi proyecto! 
 
 Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
