@@ -1,11 +1,13 @@
 ## ¡Bienvenido!
 
+<br> 
 ### Yo soy Margarita 
 
 <br> 
     <img src="images/gota.jpg"
   img/>
   
+  <br> 
 ### ¡Conoce mi proyecto! 
 <br> 
 
@@ -15,6 +17,7 @@ La finalidad de este proyecto es tener un panel de oportunidades más amplio par
 
 Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar, y si nunca has donado, espero que te motive a hacerlo.
 
+<br> 
 ### Dona Sangre, Salva vidas
 <br> 
 
@@ -38,7 +41,7 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 
 9. La donación es de 400 ml a 450 ml de sangre, una cantidad que no provoca ningún tipo de cambio en el cuerpo humano.  
 
-
+<br> 
 ### Compatibilidad
 <br> 
 Es importante conocer sobre la compatibilidad que tienen los distintos grupos sanguineos. 
@@ -102,7 +105,7 @@ Es importante conocer sobre la compatibilidad que tienen los distintos grupos sa
 
 
 
-
+<br> 
 ### Quiero Donar
 <br> 
 
@@ -123,6 +126,7 @@ Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación 
 
 Agrega a tu comentario un **correo electronico** para que puedan contactarte. **No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
 
+<br> 
 ### Busco Donadores 
 <br> 
 
@@ -131,7 +135,7 @@ Sabemos lo dificil que es buscar donadores y es por eso que ofrecemos este espac
 Es por esto que se pide que posteen en los comentarios los requisitos necesarios para poder Donar y un **correo electronico** para que todo interesado pueda contactarse.**No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
 
 
-
+<br> 
 ### Comentarios
 <br> 
 
