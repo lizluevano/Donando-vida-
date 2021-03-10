@@ -2,17 +2,17 @@
 
 ### Yo soy Margarita 
 
-<div class="container">
+<div class="container" style = "background-color: #ffffff;">
 <br> 
     <img src="images/gota.jpg"
   img/>
-</div>  
+  
 ### ¡Conoce mi proyecto! 
 
 **¿Sabías que?** Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. 
 Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar. 
 La finalidad de este proyecto es tener un panel de oportunidades más amplio para la población del estado de **Guanajuato**.
-
+</div>
 Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar, y si nunca has donado, espero que te motive a hacerlo.
 
 ### Dona Sangre, Salva vidas
