@@ -9,16 +9,17 @@
   
 ### ¡Conoce mi proyecto! 
 
-Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
+**¿Sabías que?** Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. 
+Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
 La finalidad de este proyecto es tener un panel de oportunidades más amplio para la población del estado de **Guanajuato**.
 
-Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar.
+Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar, y si nunca has donado, espero que te motive a hacerlo.
 
 ### Dona Sangre, Salva vidas
 
 Las donaciones de sangre que se hacen cada día contribuyen a salvar vidas, algunas de estas son mujeres con complicaciones obstétricas, niños que presenten un cuadro de anemia grave, personas con traumatismo graves o pacientes de intervenciones quirúrgicas y pacientes que requieren transfusiones periódicas por cáncer, operaciones u otros.
 
-Enseguida te compartire algunos puntos interesantes sobre la donación de sangre, esperando que así te animes a la causa.
+Enseguida te compartire algunos puntos interesantes sobre la donación de sangre, esperando que así te sumes a la causa.
 
 1. Donando una vez puedes ayudar a tres personas, así es. La sangre puede dividirse en tres productos diferentes, lo cual puede ayudar entre 3 y 4 personas.  
 
@@ -102,20 +103,31 @@ Es importante conocer sobre la compatibilidad que tienen los distintos grupos sa
 
 ### Quiero Donar
 
+Entre los requerimientos generales tienes que tomar en cuenta lo siguiente: 
+
+1. No haber estado enfermo de gripe, tos, diarrea o infección dental en los últimos 14 días.
+2. No haber tomado medicamentos en los últimos cinco días.
+3. No haber estado en tratamiento de endodoncia, acupuntura o haberse practicado tatuajes o perforaciones en los últimos 12 meses.
+4. No haber sido operado en los últimos seis meses.
+5. No haberse vacunado en los últimos 30 días.
+6. No haber ingerido bebidas alcohólicas en 72 horas previas a la donación.
+7.Si tienes la presión arterial alta y estás controlada o controlado, puedes ser candidato a donación.
+
 Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el estado de **Guanajuato** y así todos tengamos un mayor campo de oportunides. 
 
-Agrega a tu comentario un correo electronico para que puedan contactarte. 
+Agrega a tu comentario un correo **electronico** para que puedan contactarte. **No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
 
 ### Busco Donadores 
 
 Sabemos lo dificil que es buscar donadores y es por eso que ofrecemos este espacio para encontrar una esperanza más. 
 
-Es por esto que se pide que posteen en los comentarios los requisitos necesarios para poder Donar y un correo electronico para que todo interesado pueda contactarse. 
+Es por esto que se pide que posteen en los comentarios los requisitos necesarios para poder Donar y un **correo electronico** para que todo interesado pueda contactarse.**No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
+
 
 
 ### Comentarios
 
-Si estas interesado en ser Donador o buscar Donadores de sangre, plasma u organos. Escribe en la caja de comentarios para que pueda llegar a más personas. 
+Escribe en la caja de comentarios si buscas un Donador o si estas interesado en donar, para que pueda llegar a más personas en el estado. 
 
    **Recuerda que el mundo es de las personas que se levantan y aportan con sus acciones para hacerlo crecer**. 
 
