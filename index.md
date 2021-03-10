@@ -1,6 +1,5 @@
 ## ¡Bienvenido!
 
-<br> 
 ### Yo soy Margarita 
 
 <br> 
