@@ -115,7 +115,7 @@ Entre los requerimientos generales tienes que tomar en cuenta lo siguiente:
 
 Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el estado de **Guanajuato** y así todos tengamos un mayor campo de oportunides. 
 
-Agrega a tu comentario un correo **electronico** para que puedan contactarte. **No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
+Agrega a tu comentario un **correo electronico** para que puedan contactarte. **No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
 
 ### Busco Donadores 
 
