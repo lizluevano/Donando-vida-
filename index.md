@@ -1,11 +1,14 @@
 ## ¡Bienvenido!
 
-<br>
+<br> 
+## Yo soy Margarita y quiero contarte un poco sobre mi proyecto
     <img src="images/gota.jpg"
   img/>
 
 Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
 La finalidad de este proyecto es tener un panel de oportunidades más amplio para la población del estado de **Guanajuato**.
+
+Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar.
 
 ### Dona Sangre, Salva vidas
 
@@ -95,7 +98,7 @@ Es importante conocer sobre la compatibilidad que tienen los distintos grupos sa
 
 ### Quiero Donar
 
-Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el mundo y así todos tengamos una oportunidad de seguir viviendo. 
+Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el estado de **Guanajuato** y así todos tengamos un mayor campo de oportunides. 
 
 Agrega a tu comentario un correo electronico para que puedan contactarte. 
 
