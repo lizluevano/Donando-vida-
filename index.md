@@ -1,7 +1,7 @@
 ## ¡Bienvenido!
 
-## Yo soy Margarita ¡Conoce mi proyecto!
-    
+## Yo soy Margarita 
+
 ## ¡Conoce mi proyecto!
 
 <br> 
