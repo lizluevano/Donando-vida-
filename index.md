@@ -1,9 +1,7 @@
 ## ¡Bienvenido!
-<center> ### Yo soy Margarita 
-    </center>
-    <center>
-### ¡Conoce mi proyecto!
-</center>
+## Yo soy Margarita ¡Conoce mi proyecto!
+    
+## ¡Conoce mi proyecto!
 
 <br> 
     <img src="images/gota.jpg"
