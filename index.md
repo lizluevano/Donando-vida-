@@ -1,6 +1,3 @@
-</div>
-<div class="container" style = "background-color: #ffffff;">
-
 ## ¡Bienvenido!
 
 ### Yo soy Margarita 
@@ -10,6 +7,7 @@
   img/>
   
 ### ¡Conoce mi proyecto! 
+<br> 
 
 **¿Sabías que?** Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. 
 Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar. 
@@ -18,6 +16,7 @@ La finalidad de este proyecto es tener un panel de oportunidades más amplio par
 Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar, y si nunca has donado, espero que te motive a hacerlo.
 
 ### Dona Sangre, Salva vidas
+<br> 
 
 Las donaciones de sangre que se hacen cada día contribuyen a salvar vidas, algunas de estas son mujeres con complicaciones obstétricas, niños que presenten un cuadro de anemia grave, personas con traumatismo graves o pacientes de intervenciones quirúrgicas y pacientes que requieren transfusiones periódicas por cáncer, operaciones u otros.
 
@@ -39,8 +38,9 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 
 9. La donación es de 400 ml a 450 ml de sangre, una cantidad que no provoca ningún tipo de cambio en el cuerpo humano.  
 
-</div>
+
 ### Compatibilidad
+<br> 
 Es importante conocer sobre la compatibilidad que tienen los distintos grupos sanguineos. 
 <html>
 <head><title>Ejemplo de tabla sencilla</title></head>
@@ -104,6 +104,7 @@ Es importante conocer sobre la compatibilidad que tienen los distintos grupos sa
 
 
 ### Quiero Donar
+<br> 
 
 Entre los requerimientos generales tienes que tomar en cuenta lo siguiente: 
 
@@ -123,6 +124,7 @@ Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación 
 Agrega a tu comentario un **correo electronico** para que puedan contactarte. **No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
 
 ### Busco Donadores 
+<br> 
 
 Sabemos lo dificil que es buscar donadores y es por eso que ofrecemos este espacio para encontrar una esperanza más. 
 
@@ -131,6 +133,7 @@ Es por esto que se pide que posteen en los comentarios los requisitos necesarios
 
 
 ### Comentarios
+<br> 
 
 Escribe en la caja de comentarios si buscas un Donador o si estas interesado en donar, para que pueda llegar a más personas en el estado. 
 
