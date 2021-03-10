@@ -2,11 +2,11 @@
 
 ### Yo soy Margarita 
 
-
+<div class="container">
 <br> 
     <img src="images/gota.jpg"
   img/>
-  
+</div>  
 ### ¡Conoce mi proyecto! 
 
 **¿Sabías que?** Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. 
