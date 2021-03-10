@@ -10,7 +10,7 @@
 ### ¡Conoce mi proyecto! 
 
 **¿Sabías que?** Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. 
-Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar.
+Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar. 
 La finalidad de este proyecto es tener un panel de oportunidades más amplio para la población del estado de **Guanajuato**.
 
 Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar, y si nunca has donado, espero que te motive a hacerlo.
@@ -105,13 +105,16 @@ Es importante conocer sobre la compatibilidad que tienen los distintos grupos sa
 
 Entre los requerimientos generales tienes que tomar en cuenta lo siguiente: 
 
-1. No haber estado enfermo de gripe, tos, diarrea o infección dental en los últimos 14 días.
-2. No haber tomado medicamentos en los últimos cinco días.
-3. No haber estado en tratamiento de endodoncia, acupuntura o haberse practicado tatuajes o perforaciones en los últimos 12 meses.
-4. No haber sido operado en los últimos seis meses.
-5. No haberse vacunado en los últimos 30 días.
-6. No haber ingerido bebidas alcohólicas en 72 horas previas a la donación.
-7.Si tienes la presión arterial alta y estás controlada o controlado, puedes ser candidato a donación.
+ Lo principal es tener una edad de 18 a 65 años
+
+1. Peso mayor de 50 kilogramos.
+2. No haber estado enfermo de gripe, tos, diarrea o infección dental en los últimos 14 días.
+3. No haber tomado medicamentos en los últimos cinco días.
+4. No haber estado en tratamiento de endodoncia, acupuntura o haberse practicado tatuajes o perforaciones en los últimos 12 meses.
+5. No haber sido operado en los últimos seis meses.
+6. No haberse vacunado en los últimos 30 días.
+7. No haber ingerido bebidas alcohólicas en 72 horas previas a la donación.
+8. Si tienes la presión arterial alta y estás controlada o controlado, puedes ser candidato a donación.
 
 Si estas interesado en Donar sangre, plasma o entrar en un proceso de Donación de Organos, deja tu comentario para que pueda llegar a más personas en el estado de **Guanajuato** y así todos tengamos un mayor campo de oportunides. 
 
