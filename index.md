@@ -139,6 +139,12 @@ Te pido que postees en los comentarios los requisitos necesarios para poder Dona
 
 Escribe en la caja de comentarios si buscas un donador o si estás interesado en donar, esto ayudará a que la página llegue a más personas en el estado.
 
+Específica en tu comentario toda la información posible, si te gustaría ser Donador o necesitas Donadores e incluye: 
+
+- Tipo de sangre
+- Municipio (**No publiques tu dirección, no números telefónicos**)
+- Correo electrónico para que puedan contactarte 
+
    **Recuerda que el mundo es de las personas que se levantan y aportan con sus acciones para hacerlo crecer**. 
 
 <div id="disqus_thread"></div>
