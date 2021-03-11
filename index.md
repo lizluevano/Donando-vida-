@@ -149,7 +149,7 @@ Específica en tu comentario toda la información posible, si te gustaría ser D
 
 
 
-   **Recuerda que el mundo es de las personas que se levantan y aportan con sus acciones para hacerlo crecer, y de todos aquellos que no se rinden y siguen adelante**. 
+  >**Recuerda que el mundo es de las personas que se levantan y aportan con sus acciones para hacerlo crecer, y de todos aquellos que no se rinden y siguen adelante**. 
    
 ### ¡No estas aquí por casualidad!
 
