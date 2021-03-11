@@ -144,7 +144,7 @@ Específica en tu comentario toda la información posible, si te gustaría ser D
 
 
 - Tipo de sangre
-- Municipio (**No publiques tu dirección, no números telefónicos**)
+- Municipio (**no públiques tu dirección, ni números telefónicos**)
 - Correo electrónico para que puedan contactarte 
 
 
