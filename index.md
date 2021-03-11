@@ -10,7 +10,7 @@
 <br> 
 
 **¿Sabías que?** Las donaciones de sangre son más necesarias que nunca durante la actual pandemia por COVID-19. 
-Es por eso que este espacio esta diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y esta en sus posibilidades apoyar. 
+Es por eso que este espacio está diseñado para las personas que se encuentran en busca de donadores y para todas aquellas personas que quieren y está en sus posibilidades apoyar. 
 La finalidad de este proyecto es tener un panel de oportunidades más amplio para la población del estado de **Guanajuato**.
 
 Dentro de esta página encontraras información necesaria para entender un poco más sobre la importancia de Donar, y si nunca has donado, espero que te motive a hacerlo.
@@ -19,7 +19,7 @@ Dentro de esta página encontraras información necesaria para entender un poco 
 ### Dona Sangre, Salva vidas
 <br> 
 
-Las donaciones de sangre que se hacen cada día contribuyen a salvar vidas, algunas de estas son mujeres con complicaciones obstétricas, niños que presenten un cuadro de anemia grave, personas con traumatismo graves o pacientes de intervenciones quirúrgicas y pacientes que requieren transfusiones periódicas por cáncer, operaciones u otros.
+Las donaciones de sangre que se hacen cada día contribuyen a salvar vidas, las cuales pueden pertener a mujeres con complicaciones obstétricas, niños que presenten un cuadro de anemia grave, personas con traumatismo graves o pacientes de intervenciones quirúrgicas y pacientes que requieren transfusiones periódicas por cáncer, operaciones u otros.
 
 Enseguida te compartire algunos puntos interesantes sobre la donación de sangre, esperando que así te sumes a la causa.
 
@@ -29,7 +29,7 @@ Enseguida te compartire algunos puntos interesantes sobre la donación de sangre
 
 3. Cada 4 minutos, una persona requiere una transfusión sanguínea.  
 
-5. Si donaras 3 veces como mujer y 4 veces como hombre al año de los 18 a los 65 años salvarías más de 500 vidas.  
+5. Si donaras 3 veces al año si eres mujer o 4 veces si eres hombre, desde los 18 hasta los 65 años, salvarías más de 500 vidas. 
 
 6. Más del 25% de nosotros necesitará sangre al menos una vez en la vida.  
 
@@ -130,14 +130,14 @@ Agrega a tu comentario un **correo electronico** para que puedan contactarte. **
 
 Sabemos lo dificil que es buscar donadores y es por eso que ofrecemos este espacio para encontrar una esperanza más. 
 
-Es por esto que se pide que posteen en los comentarios los requisitos necesarios para poder Donar y un **correo electronico** para que todo interesado pueda contactarse.**No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
+Te pido que postees en los comentarios los requisitos necesarios para poder Donar y un **correo electronico** para que todo interesado pueda contactarse. **No agregues tu número telefónico**, esto con la finalidad de evitar el mal uso de la información.
 
 
 <br> 
 ### Comentarios
 <br> 
 
-Escribe en la caja de comentarios si buscas un Donador o si estas interesado en donar, para que pueda llegar a más personas en el estado. 
+Escribe en la caja de comentarios si buscas un donador o si estás interesado en donar, esto ayudará a que la página llegue a más personas en el estado.
 
    **Recuerda que el mundo es de las personas que se levantan y aportan con sus acciones para hacerlo crecer**. 
 
